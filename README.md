@@ -1,0 +1,2 @@
+# releases
+Kreato Linux releases
